@@ -1,0 +1,11 @@
+# 全体の設定
+db.sqlite3
+.vscode
+__pycache__
+*.pyc
+.DS_Store
+venv
+local_config.py
+
+# Googleスプレッドシート設定
+calm-velocity-376608-8fcc97272755.json
